@@ -3,7 +3,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bultakov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bultakov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bultakov&theme=2077">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bultakov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bultakov&theme=2077&utcOffset=5"><br>
     </p>
 </a> 
