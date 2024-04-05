@@ -6,9 +6,11 @@
         <img src="https://leetcode-stats-six.vercel.app/api?username=biiuz&theme=dark" alt="Jokes Card" />    
     </p>
 </a> 
-<a href="https://wakatime.com/@df968158-4183-4078-9a35-a87452ad2958">
-    <img src="https://wakatime.com/badge/user/df968158-4183-4078-9a35-a87452ad2958.svg" alt="Total time coded since Jul 16 2021" />
-</a>
+<p align="center">
+    <a href="https://wakatime.com/@df968158-4183-4078-9a35-a87452ad2958">
+        <img src="https://wakatime.com/badge/user/df968158-4183-4078-9a35-a87452ad2958.svg" alt="Total time coded since Jul 16 2021" />
+    </a>
+</p>
 
     👋 Welcome to my profile!
     ❓ If you have any questions or suggestions for me, write to me in Telegram.
