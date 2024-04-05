@@ -5,8 +5,10 @@
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bultakov&theme=2077&utcOffset=5"><br>
         <img src="https://leetcode-stats-six.vercel.app/api?username=biiuz&theme=dark" alt="Jokes Card" />    
     </p>
-    <a href="https://wakatime.com/@df968158-4183-4078-9a35-a87452ad2958"><img src="https://wakatime.com/badge/user/df968158-4183-4078-9a35-a87452ad2958.svg" alt="Total time coded since Jul 16 2021" /></a>
 </a> 
+<a href="https://wakatime.com/@df968158-4183-4078-9a35-a87452ad2958">
+    <img src="https://wakatime.com/badge/user/df968158-4183-4078-9a35-a87452ad2958.svg" alt="Total time coded since Jul 16 2021" />
+</a>
 
     👋 Welcome to my profile!
     ❓ If you have any questions or suggestions for me, write to me in Telegram.
