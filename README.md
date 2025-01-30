@@ -3,7 +3,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bultakov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bultakov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bultakov&theme=2077&utcOffset=5"><br>
-        <img src="https://leetcode-stats-six.vercel.app/api?username=biiuz&theme=dark" alt="Jokes Card" />    
     </p>
 </a> 
 <p align="center">
