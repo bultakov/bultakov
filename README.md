@@ -32,18 +32,6 @@
 
 ---
 
-## 📈 Ish faoliyati
-
-<div align="center">
-
-[![Bultakov's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@df968158-4183-4078-9a35-a87452ad2958&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@df968158-4183-4078-9a35-a87452ad2958)
-
-[![wakatime](https://wakatime.com/badge/user/df968158-4183-4078-9a35-a87452ad2958.svg)](https://wakatime.com/@df968158-4183-4078-9a35-a87452ad2958)
-
-</div>
-
----
-
 ## 🏆 Yutuqlar
 
 <div align="center">
