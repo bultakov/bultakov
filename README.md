@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Assalomu aleykum, men Ibrohim!
+# 👋 Assalomu alaykum!
 
 ### Python Backend Dasturchi | Telegram Bot Mutaxassisi
 
