@@ -4,6 +4,9 @@
 
 ### Python Backend Dasturchi | Telegram Bot Mutaxassisi
 
+🐍 6+ yillik Telegram bot rivojlantirish tajribasi  
+💼 [Yuboraman.uz](https://yuboraman.uz) - CRM integratsiya platformasi asoschisi
+
 [![Telegram](https://img.shields.io/badge/Telegram-@IbrohimBultakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IbrohimBultakov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrohim_Bultakov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrohim-bultakov/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bultakov.uz-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://bultakov.uz)
@@ -12,27 +15,7 @@
 
 ---
 
-## 🚀 Men haqimda
-
-- 🐍 **Telegram bot** rivojlantirish tajribasi
-- 💼 **[Yuboraman.uz](https://yuboraman.uz)** - CRM integratsiya platformasi asoschisi
-- 🔧 Backend arxitektura va API loyihalash
-- 📊 PostgreSQL va ma'lumotlar bazalari optimizatsiyasi
-- 🤖 Telegram botlar bo'yicha keng tajriba
-
----
-
 ## 🛠️ Texnologiyalar
-
-```python
-skills = {
-    "Tillar": ["Python"],
-    "Frameworklar": ["FastAPI", "Django", "Aiogram"],
-    "Ma'lumotlar bazasi": ["PostgreSQL", "MySQL", "Redis"],
-    "DevOps": ["Docker", "Nginx", "Linux"],
-    "Boshqalar": ["Git", "Celery", "RESTful API"]
-}
-```
 
 <div align="center">
 
@@ -49,32 +32,19 @@ skills = {
 
 ## 📊 GitHub Statistika
 
-<div align="center">
+<a href="https://github.com/bultakov">
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bultakov&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bultakov&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bultakov&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bultakov&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bultakov&theme=2077&utcOffset=5">
+    </p>
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bultakov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bultakov&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💼 Loyihalarim
-
-### 🌐 [Yuboraman.uz](https://yuboraman.uz)
-**CRM Integratsiya SaaS Platformasi**  
-Facebook, Tilda, Creatium'dan kelgan lidlarni avtomatik CRM'larga yuborish  
-`FastAPI` `PostgreSQL` `Celery` `Redis`
-
-### 🤖 [Visola](https://t.me/visolauz_bot)
-**Elektron Savdo Telegram Boti**  
-Telegram orqali mahsulot sotish va to'lov qabul qilish  
-`Aiogram` `PostgreSQL` `Payment Gateway`
-
-### 🎁 [Visolaball](https://t.me/visolaball_bot)
-**Sodiqlik Dasturi Boti**  
-SmartUp.online CRM bilan integratsiya qilingan  
-`Aiogram` `PostgreSQL` `CRM Integration`
+<p align="center">
+    <img src="https://wakatime.com/badge/user/df968158-4183-4078-9a35-a87452ad2958.svg"/>
+</p>
 
 ---
 
@@ -82,24 +52,13 @@ SmartUp.online CRM bilan integratsiya qilingan
 
 <div align="center">
 
-**Telegram orqali bog'lanish eng tez yo'li!** 💬
+**Savol yoki takliflaringiz bormi? Telegram'da yozib qoldiring!** 💬
 
 [![Telegram](https://img.shields.io/badge/Telegram-@IbrohimBultakov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IbrohimBultakov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrohim_Bultakov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrohim-bultakov/)
 [![Email](https://img.shields.io/badge/Email-bii23.uz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bii23.uz@gmail.com)
 
-</div>
-
 ---
-
-<div align="center">
-
-### 💡 Hamkorlik qilishga tayyorman!
-
-```python
-if interested_in_collaboration:
-    contact_me_on_telegram()  # @IbrohimBultakov
-```
 
 **"print('Hello World') - hammasi shu yerdan boshlandi!"** 🚀
 
