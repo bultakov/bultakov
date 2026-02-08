@@ -32,16 +32,6 @@
 
 ---
 
-## 🏆 Yutuqlar
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bultakov&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📫 Bog'lanish
 
 <div align="center">
