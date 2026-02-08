@@ -4,9 +4,6 @@
 
 ### Python Backend Dasturchi | Telegram Bot Mutaxassisi
 
-🐍 6+ yillik Telegram bot rivojlantirish tajribasi  
-💼 [Yuboraman.uz](https://yuboraman.uz) - CRM integratsiya platformasi asoschisi
-
 [![Telegram](https://img.shields.io/badge/Telegram-@IbrohimBultakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IbrohimBultakov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrohim_Bultakov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrohim-bultakov/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bultakov.uz-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://bultakov.uz)
