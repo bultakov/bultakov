@@ -3,7 +3,7 @@
 # $ whoami
 ### >>> Bultakov Ibrohim - Python Backend Developer 🐍
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;6%2B+yillik+Telegram+Bot+tajribasi;FastAPI+%7C+Django+%7C+PostgreSQL;Yuboraman.uz+Founder;Always+coding...+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Telegram+Bot+tajribasi;FastAPI+%7C+Django+%7C+PostgreSQL;Yuboraman.uz+Founder;Always+coding...+%F0%9F%92%BB" alt="Typing SVG" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-@IbrohimBultakov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IbrohimBultakov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrohim_Bultakov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrohim-bultakov/)
