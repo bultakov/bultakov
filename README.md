@@ -46,7 +46,6 @@
 **Savol yoki takliflaringiz bormi? Telegram'da yozib qoldiring!** 💬
 
 [![Telegram](https://img.shields.io/badge/Telegram-@IbrohimBultakov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IbrohimBultakov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bultakov.uz-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://bultakov.uz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrohim_Bultakov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrohim-bultakov/)
 [![Email](https://img.shields.io/badge/Email-bii23.uz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bii23.uz@gmail.com)
 
